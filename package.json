@@ -1,0 +1,24 @@
+{
+  "name": "required_env",
+  "version": "1.0.0",
+  "description": "Corrall your environment variables, but only a little bit. Don't fence me in.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Prismatik/required_env.git"
+  },
+  "keywords": [
+    "environment",
+    "required",
+    "env"
+  ],
+  "author": "david@banham.id.au",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Prismatik/required_env/issues"
+  },
+  "homepage": "https://github.com/Prismatik/required_env"
+}
