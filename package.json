@@ -1,6 +1,6 @@
 {
   "name": "required_env",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Corrall your environment variables, but only a little bit. Don't fence me in.",
   "main": "index.js",
   "scripts": {
